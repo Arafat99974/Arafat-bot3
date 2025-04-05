@@ -18,23 +18,23 @@ config: {
   api.setMessageReaction('😍', event.messageID, (err) => {}, true);
   try {
     const ShanInfo = {
-      name: '(╹◡╹)𝑬𝒘𝑹彡S𝓱ₐ𝚗(◍•ᴗ•◍)Ψ',
-      nick: '𝗦𝗵𝗔𝗻',
+      name: 'Arafat',
+      nick: 'Oreki',
       gender: '𝑴𝒂𝑳𝒆',
-      birthday: '10-𝟎𝟕-𝟐𝟎𝟎5',
+      birthday: '23-11-𝟐𝟎𝟎7',
       age:'19',
       Status: 'আমি বললুম না আমার শরম করে😝🤭',
       hobby: '𝑺𝒍𝒆𝒆𝑷𝒊𝒏𝑮',
       religion: '𝙄𝒔𝒍𝑨𝒎',
       height: '5"3',
-      Fb: 'https://www.facebook.com/sirana252',
-      messenger: 'https://m.me/sirana252',
+      Fb: 'https://www.facebook.com/Arafatas602',
+      messenger: 'https://m.me/Arafatas602',
       authorNumber: 'এইটা পার্সোনাল',
-      insta: 'https://www.instagram.com/sirana252',
-      tg: 'https://t.me/si_rana252',
+      insta: 'https://www.instagram.com/iam_Arafat_602',
+      tg: '𝐁𝐨𝐥𝐛𝐨 𝐧𝐚𝐡',
       capcut: 'কোনো আইড়ি নাই , Alight motion ব্যবহার করি।',
       tiktok: 'আমি প্রতিবন্ধী না 🙂',
-      youtube: 'নিজের কোনো চ্যানেল নাই ☺️, এমনিতেই কারো YouTube premium লাগলে ইনবক্স করিও?',
+      youtube: 'নিজের কোনো চ্যানেল নাই ☺️',
     };
     const now = moment().tz('Asia/Jakarta');
     const date = now.format('MMMM Do YYYY');
